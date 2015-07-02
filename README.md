@@ -1,3 +1,3 @@
 # ganymede
 All code for MSTR Integration's next great release
-version 6
+version 7
